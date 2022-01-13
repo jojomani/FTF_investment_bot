@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "InvestmentBot",
+    "version": "1",
+    "intents": [
+      {
+        "rejectionStatement": {
+          "messages": [
+            {
+              "contentType": "PlainText",
+              "content": "We'll be here when you are ready to invest."
+            }
+          ]
+        },
+        "name": "FourZeroOnePortfolio",
+        "version": "8",
+        "fulfillmentActivity": {
+          "type": "CodeHook"
+        },
+        "sampleUtterances": [
+          "I want to invest for my retirement",
+          "I'm worried about by my retirement",
+          "I want the best options to invest in for retirement",
+          "I'm {age} and I want to invest in a retirement",
+          "I'm {age} and I would like to invest for retirement",
+          "I want to put money away for my retirement"
+        ],
+        "slots": [
+          {
+            "sampleUtterances": [],
+            "slotType": "AMAZON.NUMBER",
+            "obfuscationSetting": "NONE",
+            "slotConstraint": "Required",
+            "valueElicitationPrompt": {
+              "messages": [
+                {
+                  "contentType": "PlainText",
+                  "content": "How old are you currently?"
+                }
+              ],
+              "maxAttempts": 2
+            },
+            "priority": 2,
+            "name": "age"
+          },
+          {
+            "sampleUtterances": [],
+            "slotType": "AMAZON.US_FIRST_NAME",
+            "obfuscationSetting": "NONE",
+            "slotConstraint": "Required",
+            "valueElicitationPrompt": {
+              "messages": [
+                {
+                  "contentType": "PlainText",
+                  "content": "Thanks for reaching out to us to view 401K investment options, let's get started! What's your name?"
+                }
+              ],
+              "maxAttempts": 2
+            },
+            "priority": 1,
+            "name": "firstName"
+          },
+          {
+            "sampleUtterances": [],
+            "slotType": "AMAZON.AlphaNumeric",
+            "obfuscationSetting": "NONE",
+            "slotConstraint": "Required",
+            "valueElicitationPrompt": {
+              "messages": [
+                {
+                  "contentType": "PlainText",
+                  "content": "When do you get paid? (Weekly, Bi-Weekly, Semi-Monthly, Monthly)"
+                }
+              ],
+              "maxAttempts": 2
+            },
+            "priority": 5,
+            "name": "incomeFrequency"
+          },
+          {
+            "sampleUtterances": [],
+            "slotType": "AMAZON.NUMBER",
+            "obfuscationSetting": "NONE",
+            "slotConstraint": "Required",
+            "valueElicitationPrompt": {
+              "messages": [
+                {
+                  "contentType": "PlainText",
+                  "content": "How much are you willing to contribute each paycheck? (only enter the number)"
+                }
+              ],
+              "maxAttempts": 2
+            },
+            "priority": 4,
+            "name": "percentage"
+          },
+          {
+            "sampleUtterances": [],
+            "slotType": "AMAZON.NUMBER",
+            "obfuscationSetting": "NONE",
+            "slotConstraint": "Required",
+            "valueElicitationPrompt": {
+              "messages": [
+                {
+                  "contentType": "PlainText",
+                  "content": "What is your Pre-Tax Income? (Or your best estimate)"
+                }
+              ],
+              "maxAttempts": 2
+            },
+            "priority": 3,
+            "name": "pretaxIncome"
+          },
+          {
+            "sampleUtterances": [],
+            "slotType": "AMAZON.AlphaNumeric",
+            "obfuscationSetting": "NONE",
+            "slotConstraint": "Required",
+            "valueElicitationPrompt": {
+              "messages": [
+                {
+                  "contentType": "PlainText",
+                  "content": "What does your Risk Tolerance look like? (None, Low, Medium, High)"
+                }
+              ],
+              "maxAttempts": 2
+            },
+            "priority": 7,
+            "name": "riskLevel"
+          },
+          {
+            "sampleUtterances": [],
+            "slotType": "AMAZON.NUMBER",
+            "obfuscationSetting": "NONE",
+            "slotConstraint": "Required",
+            "valueElicitationPrompt": {
+              "messages": [
+                {
+                  "contentType": "PlainText",
+                  "content": "How much do you currently have saved?"
+                }
+              ],
+              "maxAttempts": 2
+            },
+            "priority": 6,
+            "name": "savingsAmount"
+          }
+        ],
+        "confirmationPrompt": {
+          "messages": [
+            {
+              "contentType": "PlainText",
+              "content": "Thanks {firstName}, in order to view your 401K investment options. Type CONTINUE"
+            }
+          ],
+          "maxAttempts": 3
+        }
+      }
+    ],
+    "voiceId": "Salli",
+    "childDirected": false,
+    "locale": "en-US",
+    "idleSessionTTLInSeconds": 300,
+    "clarificationPrompt": {
+      "messages": [
+        {
+          "contentType": "PlainText",
+          "content": "Sorry, can you please repeat that?"
+        }
+      ],
+      "maxAttempts": 5
+    },
+    "abortStatement": {
+      "messages": [
+        {
+          "contentType": "PlainText",
+          "content": "Sorry, I could not understand. Goodbye."
+        }
+      ]
+    },
+    "detectSentiment": false,
+    "enableModelImprovements": false
+  }
+}
