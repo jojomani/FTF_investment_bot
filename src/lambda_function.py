@@ -244,7 +244,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Small Cap Growth Index Fund (FECGX), Fidelity Mid Cap Growth Index Fund (FMDGX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FECGX, ${} with FMDGX, and ${} with FSPGX. Congrats!
@@ -284,7 +284,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Small Cap Growth Index Fund (FECGX), Fidelity Mid Cap Growth Index Fund (FMDGX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FECGX, ${} with FMDGX, and ${} with FSPGX. Congrats!
@@ -428,7 +428,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Small Cap Growth Index Fund (FECGX), Fidelity Mid Cap Growth Index Fund (FMDGX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FECGX, ${} with FMDGX, and ${} with FSPGX. Congrats!
@@ -468,7 +468,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Small Cap Growth Index Fund (FECGX), Fidelity Mid Cap Growth Index Fund (FMDGX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FECGX, ${} with FMDGX, and ${} with FSPGX. Congrats!
@@ -609,7 +609,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Small Cap Growth Index Fund (FECGX), Fidelity Mid Cap Growth Index Fund (FMDGX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FECGX, ${} with FMDGX, and ${} with FSPGX. Congrats!
@@ -649,7 +649,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Small Cap Growth Index Fund (FECGX), Fidelity Mid Cap Growth Index Fund (FMDGX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FECGX, ${} with FMDGX, and ${} with FSPGX. Congrats!
@@ -790,7 +790,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Small Cap Growth Index Fund (FECGX), Fidelity Mid Cap Growth Index Fund (FMDGX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FECGX, ${} with FMDGX, and ${} with FSPGX. Congrats!
@@ -830,7 +830,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Small Cap Growth Index Fund (FECGX), Fidelity Mid Cap Growth Index Fund (FMDGX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FECGX, ${} with FMDGX, and ${} with FSPGX. Congrats!
@@ -982,7 +982,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Large Cap Value Index Fund (FLCOX), Fidelity Mid Cap Value Fund (FSMVX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FLCOX, ${} with FSMVX, and ${} with FSPGX. Congrats!
@@ -1009,7 +1009,7 @@ def recommend_portfolio(intent_request):
                     fsmvx_end_goal_cash = "{:,.2f}".format(fsmvx_end_goal)
                     fspgx_end_goal = (bond_value * bond_percent) + (index_value * fspgx)
                     fspgx_end_goal_cash = "{:,.2f}".format(fspgx_end_goal)
-                    recommendation = "40% in Bonds (FFXSX) and 60% in index funds (FLCOX , FSMVX, FSPGX)"
+                    recommendation = "20% in Bonds (FFXSX) and 80% in index funds (FLCOX , FSMVX, FSPGX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -1022,7 +1022,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Large Cap Value Index Fund (FLCOX), Fidelity Mid Cap Value Fund (FSMVX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FLCOX, ${} with FSMVX, and ${} with FSPGX. Congrats!
@@ -1167,7 +1167,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Large Cap Value Index Fund (FLCOX), Fidelity Mid Cap Value Fund (FSMVX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FLCOX, ${} with FSMVX, and ${} with FSPGX. Congrats!
@@ -1195,7 +1195,7 @@ def recommend_portfolio(intent_request):
                     fsmvx_end_goal_cash = "{:,.2f}".format(fsmvx_end_goal)
                     fspgx_end_goal = (bond_value * bond_percent) + (index_value * fspgx)
                     fspgx_end_goal_cash = "{:,.2f}".format(fspgx_end_goal)
-                    recommendation = "40% in Bonds (FFXSX) and 60% in index funds (FLCOX , FSMVX, FSPGX)"
+                    recommendation = "20% in Bonds (FFXSX) and 80% in index funds (FLCOX , FSMVX, FSPGX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -1348,7 +1348,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Large Cap Value Index Fund (FLCOX), Fidelity Mid Cap Value Fund (FSMVX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FLCOX, ${} with FSMVX, and ${} with FSPGX. Congrats!
@@ -1376,7 +1376,7 @@ def recommend_portfolio(intent_request):
                     fsmvx_end_goal_cash = "{:,.2f}".format(fsmvx_end_goal)
                     fspgx_end_goal = (bond_value * bond_percent) + (index_value * fspgx)
                     fspgx_end_goal_cash = "{:,.2f}".format(fspgx_end_goal)
-                    recommendation = "40% in Bonds (FFXSX) and 60% in index funds (FLCOX , FSMVX, FSPGX)"
+                    recommendation = "20% in Bonds (FFXSX) and 80% in index funds (FLCOX , FSMVX, FSPGX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -1389,7 +1389,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Large Cap Value Index Fund (FLCOX), Fidelity Mid Cap Value Fund (FSMVX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FLCOX, ${} with FSMVX, and ${} with FSPGX. Congrats!
@@ -1529,7 +1529,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Large Cap Value Index Fund (FLCOX), Fidelity Mid Cap Value Fund (FSMVX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FLCOX, ${} with FSMVX, and ${} with FSPGX. Congrats!
@@ -1570,7 +1570,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Large Cap Value Index Fund (FLCOX), Fidelity Mid Cap Value Fund (FSMVX), 
                             and Fidelity Large Cap Growth Index Fund (FSPGX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FLCOX, ${} with FSMVX, and ${} with FSPGX. Congrats!
@@ -1669,7 +1669,7 @@ def recommend_portfolio(intent_request):
                     fimvx_end_goal_cash = "{:,.2f}".format(fimvx_end_goal)
                     fxaix_end_goal = (bond_value * bond_percent) + (index_value * fxaix)
                     fxaix_end_goal_cash = "{:,.2f}".format(fxaix_end_goal)
-                    recommendation = "60% in Bonds (FFXSX) and 40% in index funds (FISVX, FIMVX, FLCOX)"
+                    recommendation = "60% in Bonds (FFXSX) and 40% in index funds (FXAIX, FIMVX, FLCOX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -1722,7 +1722,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Mid Cap Growth Index Fund (FMDGX), Fidelity Large Cap Growth Index Fund (FSPGX), 
                             and Fidelity 500 Index Fund (FXAIX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FMDGX, ${} with FSPGX, and ${} with FXAIX. Congrats!
@@ -1749,7 +1749,7 @@ def recommend_portfolio(intent_request):
                     fspgx_end_goal_cash = "{:,.2f}".format(fspgx_end_goal)
                     fxaix_end_goal = (bond_value * bond_percent) + (index_value * fxaix)
                     fxaix_end_goal_cash = "{:,.2f}".format(fxaix_end_goal)
-                    recommendation = "40% in Bonds (FFXSX) and 60% in index funds (FMDGX , FSPGX, FXAIX)"
+                    recommendation = "20% in Bonds (FFXSX) and 80% in index funds (FMDGX , FSPGX, FXAIX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -1762,7 +1762,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Mid Cap Growth Index Fund (FMDGX), Fidelity Large Cap Growth Index Fund (FSPGX), 
                             and Fidelity 500 Index Fund (FXAIX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FMDGX, ${} with FSPGX, and ${} with FXAIX. Congrats!
@@ -1850,7 +1850,7 @@ def recommend_portfolio(intent_request):
                     fimvx_end_goal_cash = "{:,.2f}".format(fimvx_end_goal)
                     fxaix_end_goal = (bond_value * bond_percent) + (index_value * fxaix)
                     fxaix_end_goal_cash = "{:,.2f}".format(fxaix_end_goal)
-                    recommendation = "60% in Bonds (FFXSX) and 40% in index funds (FISVX, FIMVX, FLCOX)"
+                    recommendation = "60% in Bonds (FFXSX) and 40% in index funds (FXAIX, FIMVX, FLCOX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -1903,7 +1903,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Mid Cap Growth Index Fund (FMDGX), Fidelity Large Cap Growth Index Fund (FSPGX), 
                             and Fidelity 500 Index Fund (FXAIX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FMDGX, ${} with FSPGX, and ${} with FXAIX. Congrats!
@@ -1930,7 +1930,7 @@ def recommend_portfolio(intent_request):
                     fspgx_end_goal_cash = "{:,.2f}".format(fspgx_end_goal)
                     fxaix_end_goal = (bond_value * bond_percent) + (index_value * fxaix)
                     fxaix_end_goal_cash = "{:,.2f}".format(fxaix_end_goal)
-                    recommendation = "40% in Bonds (FFXSX) and 60% in index funds (FMDGX , FSPGX, FXAIX)"
+                    recommendation = "20% in Bonds (FFXSX) and 80% in index funds (FMDGX , FSPGX, FXAIX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -1943,7 +1943,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Mid Cap Growth Index Fund (FMDGX), Fidelity Large Cap Growth Index Fund (FSPGX), 
                             and Fidelity 500 Index Fund (FXAIX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FMDGX, ${} with FSPGX, and ${} with FXAIX. Congrats!
@@ -2084,7 +2084,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Mid Cap Growth Index Fund (FMDGX), Fidelity Large Cap Growth Index Fund (FSPGX), 
                             and Fidelity 500 Index Fund (FXAIX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FMDGX, ${} with FSPGX, and ${} with FXAIX. Congrats!
@@ -2111,7 +2111,7 @@ def recommend_portfolio(intent_request):
                     fspgx_end_goal_cash = "{:,.2f}".format(fspgx_end_goal)
                     fxaix_end_goal = (bond_value * bond_percent) + (index_value * fxaix)
                     fxaix_end_goal_cash = "{:,.2f}".format(fspgx_end_goal)
-                    recommendation = "40% in Bonds (FFXSX) and 60% in index funds (FMDGX , FSPGX, FXAIX)"
+                    recommendation = "20% in Bonds (FFXSX) and 80% in index funds (FMDGX , FSPGX, FXAIX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -2124,7 +2124,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Mid Cap Growth Index Fund (FMDGX), Fidelity Large Cap Growth Index Fund (FSPGX), 
                             and Fidelity 500 Index Fund (FXAIX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FMDGX, ${} with FSPGX, and ${} with FXAIX. Congrats!
@@ -2214,7 +2214,7 @@ def recommend_portfolio(intent_request):
                     fimvx_end_goal_cash = "{:,.2f}".format(fimvx_end_goal)
                     fxaix_end_goal = (bond_value * bond_percent) + (index_value * fxaix)
                     fxaix_end_goal_cash = "{:,.2f}".format(fxaix_end_goal)
-                    recommendation = "60% in Bonds (FFXSX) and 40% in index funds (FISVX, FIMVX, FLCOX)"
+                    recommendation = "60% in Bonds (FFXSX) and 40% in index funds (FXAIX, FIMVX, FLCOX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -2267,7 +2267,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Mid Cap Growth Index Fund (FMDGX), Fidelity Large Cap Growth Index Fund (FSPGX), 
                             and Fidelity 500 Index Fund (FXAIX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 40% for bonds and 60% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FMDGX, ${} with FSPGX, and ${} with FXAIX. Congrats!
@@ -2294,7 +2294,7 @@ def recommend_portfolio(intent_request):
                     fspgx_end_goal_cash = "{:,.2f}".format(fspgx_end_goal)
                     fxaix_end_goal = (bond_value * bond_percent) + (index_value * fxaix)
                     fxaix_end_goal_cash = "{:,.2f}".format(fxaix_end_goal)
-                    recommendation = "40% in Bonds (FFXSX) and 60% in index funds (FMDGX , FSPGX, FXAIX)"
+                    recommendation = "20% in Bonds (FFXSX) and 80% in index funds (FMDGX , FSPGX, FXAIX)"
                     
                     return close(
                         intent_request["sessionAttributes"],
@@ -2307,7 +2307,7 @@ def recommend_portfolio(intent_request):
                             For your age group and risk level there are 3 selections of recommended index funds, 
                             yours being Fidelity Mid Cap Growth Index Fund (FMDGX), Fidelity Large Cap Growth Index Fund (FSPGX), 
                             and Fidelity 500 Index Fund (FXAIX). 
-                            Using the 60% for bonds and 40% for your index funds as your perentages,
+                            Using the 20% for bonds and 80% for your index funds as your perentages,
                             by the time you are 68, you would have had {} years to invest, making
                             {} in total and contributing {} with each paycheck
                             . You would have put in ${} and could accrue ${} with FMDGX, ${} with FSPGX, and ${} with FXAIX. Congrats!
@@ -2344,7 +2344,7 @@ def dispatch(intent_request):
     intent_name = intent_request["currentIntent"]["name"]
 
     # Dispatch to bot's intent handlers
-    if intent_name == "FourOhOneKPortfolio":
+    if intent_name == "FourZeroOnePortfolio":
             return recommend_portfolio(intent_request)
 
     raise Exception("Intent with name " + intent_name + " not supported")
