@@ -25,3 +25,7 @@ groups automatically created to log the output of the Lambda functions
 for the stack resources
 
 [Here](https://d2zecd7p5lmd.cloudfront.net/index.html) is demo WebUI that you can test and interact with our Chatbot. 
+
+After running into a few issues with export/import the Lex Bot, we figured out by changing the ARN resource of the Lambda function (as it's coming from a different account). Here is an example of how the import looks:
+
+![Lex_Bot_Import](images/Lex_Bot_Import.png)
